@@ -1,5 +1,4 @@
-This project demonstrate a virtual bookshelf, where we can add our book title, author name, rating and much more. This virtual bookshelf flask made website divided into two page first one is home page
-and second where we enter the detail of our books.
+This project demonstrate a virtual bookshelf, where we can add our book title, author name, rating and much more. This virtual bookshelf flask made website divided into two page first one is home page and the second where we enter the detail of our books. No database is used in this project so after refreshing the home page all data will vanish.
 
 Technology Used:
 
